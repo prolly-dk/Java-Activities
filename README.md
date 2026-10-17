@@ -9,4 +9,4 @@
   - Individual activities can be executed by their own _Main file
   - Comments are still in the subclasses
 
-**Written in Intellij IDEA with Temurin 25 JDK**
+*Written in Intellij IDEA with Temurin 25 JDK*
