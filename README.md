@@ -1,6 +1,6 @@
 # Structured Programming
 ## Activites Using Java
-> By Dan Ezekielle Velasquez
+> By Velasquez, D.
 
 
 - ***Notes:***
