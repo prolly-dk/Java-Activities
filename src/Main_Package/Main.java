@@ -4,6 +4,8 @@ import Main_Package.Data_Type_Variables.Data_Types_Variables_Main;
 
 public class Main {
     public static void main(String[] args) {
+        Data_Types_Variables_Main DTV = new Data_Types_Variables_Main();
+
         Data_Types_Variables_Main.run();
     }
 }
