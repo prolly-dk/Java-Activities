@@ -1,7 +1,7 @@
 package Main_Package.Data_Type_Variables;
 
 public class Basic extends Data_Types_Variables_Main {
-    static void main() {
+    public static void main() {
 
 //        INITIALIZATIONS
         int age = 19;

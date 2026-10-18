@@ -1,7 +1,7 @@
 package Main_Package.Data_Type_Variables;
 
 public class Intermediate extends Data_Types_Variables_Main {
-    static void main() {
+    public static void main() {
 //        INITIALIZATIONS
         int quantity = 25;
         double unitPrice = 39.99;

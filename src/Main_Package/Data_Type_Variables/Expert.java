@@ -1,7 +1,7 @@
 package Main_Package.Data_Type_Variables;
 
 public class Expert extends Data_Types_Variables_Main {
-    static void main() {
+    public static void main() {
 //        INITIALIZATIONS
          byte overflowDemo = 127;
          String stringObject1 = new String("Bread");
