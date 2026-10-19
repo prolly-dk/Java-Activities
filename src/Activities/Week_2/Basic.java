@@ -1,4 +1,4 @@
-package Main_Package.Java_Operators;
+package Activities.Week_2;
 
 public class Basic extends Java_Operator_Main {
     public static void main() {

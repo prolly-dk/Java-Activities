@@ -1,4 +1,4 @@
-package Main_Package.Java_Operators;
+package Activities.Week_2;
 
 public class Advanced extends Java_Operator_Main {
     public static void main() {

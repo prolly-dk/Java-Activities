@@ -1,6 +1,4 @@
-package Main_Package.Data_Type_Variables;
-
-import Main_Package.Main;
+package Activities.Week_1;
 
 public class Data_Types_Variables_Main {
 

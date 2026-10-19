@@ -1,6 +1,4 @@
-package Main_Package.Java_Operators;
-
-import Main_Package.Main;
+package Activities.Week_2;
 
 public class Java_Operator_Main {
     public static void main() {

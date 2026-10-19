@@ -1,4 +1,4 @@
-package Main_Package.Data_Type_Variables;
+package Activities.Week_1;
 
 public class Expert extends Data_Types_Variables_Main {
     public static void main() {
