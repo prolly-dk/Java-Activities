@@ -1,6 +1,6 @@
 package Activities.Week_1;
 
-public class Intermediate extends Data_Types_Variables_Main {
+public class Activity2_Intermediate extends Data_Types_Variables_Main {
     public static void main() {
 //        INITIALIZATIONS
         int quantity = 25;

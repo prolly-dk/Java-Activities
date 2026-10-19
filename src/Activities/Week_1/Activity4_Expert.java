@@ -1,6 +1,6 @@
 package Activities.Week_1;
 
-public class Expert extends Data_Types_Variables_Main {
+public class Activity4_Expert extends Data_Types_Variables_Main {
     public static void main() {
 //        INITIALIZATIONS
          byte overflowDemo = 127;

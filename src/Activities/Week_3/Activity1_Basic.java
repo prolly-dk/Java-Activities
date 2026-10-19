@@ -1,6 +1,6 @@
 package Activities.Week_3;
 
-public class Basic extends Control_Flow_1_Main {
+public class Activity1_Basic extends Control_Flow_1_Main {
     public static void main() {
 //        INITIALIZATIONS
         int score = 55;

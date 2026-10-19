@@ -1,6 +1,6 @@
 package Activities.Week_2;
 
-public class Basic extends Java_Operator_Main {
+public class Activity1_Basic extends Java_Operator_Main {
     public static void main() {
 //        INITIALIZATION
         int num1 = 15, num2 = -7;

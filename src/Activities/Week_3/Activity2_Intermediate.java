@@ -1,6 +1,6 @@
 package Activities.Week_3;
 
-public class Intermediate extends Control_Flow_1_Main {
+public class Activity2_Intermediate extends Control_Flow_1_Main {
     public static void main() {
 //        INITIALIZATIONS
         double purchaseAmount = 500.00;

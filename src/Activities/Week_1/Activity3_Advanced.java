@@ -1,6 +1,6 @@
 package Activities.Week_1;
 
-public class Advanced extends Data_Types_Variables_Main {
+public class Activity3_Advanced extends Data_Types_Variables_Main {
     public static void main() {
 //        INITIALIZATIONS
         double originalCentimeters = 425.33;

@@ -1,6 +1,6 @@
 package Activities.Week_2;
 
-public class Intermediate extends Java_Operator_Main {
+public class Activity2_Intermediate extends Java_Operator_Main {
     public static void main() {
         //    INITIALIZATION
         int classLeave = 5, gradeAvg = 95;

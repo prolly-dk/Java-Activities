@@ -1,7 +1,7 @@
 package Activities.Week_3;
 
 
-public class Advanced extends Control_Flow_1_Main {
+public class Activity3_Advanced extends Control_Flow_1_Main {
 
 //    GLOBAL INITIALIZATION
     private static final String USER_NAME = new String("prolly_dk");

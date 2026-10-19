@@ -1,6 +1,6 @@
 package Activities.Week_1;
 
-public class Basic extends Data_Types_Variables_Main {
+public class Activity1_Basic extends Data_Types_Variables_Main {
     public static void main() {
 
 //        INITIALIZATIONS

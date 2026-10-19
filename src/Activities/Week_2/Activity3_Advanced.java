@@ -1,6 +1,6 @@
 package Activities.Week_2;
 
-public class Advanced extends Java_Operator_Main {
+public class Activity3_Advanced extends Java_Operator_Main {
     public static void main() {
 //        INITIALIZATION
         int initialBalance = 105, count = 1;

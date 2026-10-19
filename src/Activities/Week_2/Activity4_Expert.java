@@ -1,6 +1,6 @@
 package Activities.Week_2;
 
-public class Expert extends Java_Operator_Main {
+public class Activity4_Expert extends Java_Operator_Main {
     public static void main() {
 //        INITIALIZATION
         int index = 0, num1 = 50, num2 = 25;
