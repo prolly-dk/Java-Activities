@@ -2,7 +2,7 @@ package Activities.Week_4;
 
 import java.util.Scanner;
 
-public class Acitivity4_Expert  extends Control_Flow_2_Main {
+public class Activity4_Expert extends Control_Flow_2_Main {
 
     private static final int BROKEN_SHELF = -1;
     private static final int CRITICAL_THRESHOLD = 20;
